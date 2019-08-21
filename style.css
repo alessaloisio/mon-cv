@@ -46,3 +46,10 @@ h2 {
   text-transform: uppercase;
   border-bottom: 3px solid #3388;
 }
+
+#espacement {
+  margin-top: 28px;
+}
+#espacementLangues {
+  margin-top: 45px;
+}
