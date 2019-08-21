@@ -25,6 +25,9 @@
   margin-bottom: 70px;
   text-align: justify;
 }
+.section:hover {
+  color: #00aa00;
+}
 .sec-gauche {
   float: left;
   font-weight: bold;
